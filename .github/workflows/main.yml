@@ -25,7 +25,7 @@ jobs:
           - riscv64_riscv64
           - x86_64
         sdk:
-          - openwrt-24.10
+          - openwrt-25.12
           - SNAPSHOT
 
     steps:
